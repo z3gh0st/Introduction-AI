@@ -2,4 +2,5 @@
 
 These are the few things that I learn in 2 days of course on the suject of AI and Machine Learning.
 
-I managed to get an AI to recognise a handwritten number and differentiate between the first nine digits via the MNIST dataset.
+Some basic concept about the structure of a data and the way of a neural network works.
+And I managed to get an AI to recognise a handwritten number and differentiate between the first nine digits from 0 to 9 via the MNIST dataset.
